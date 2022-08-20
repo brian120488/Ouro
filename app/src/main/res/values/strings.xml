@@ -39,10 +39,10 @@
     <string name="menu_dark_theme_system_default">System default</string>
 
     <!--BottomNavigationDrawer-->
-    <string name="navigation_inbox">Inbox</string>
-    <string name="navigation_starred">Starred</string>
-    <string name="navigation_sent">Sent</string>
-    <string name="navigation_trash">Trash</string>
+    <string name="navigation_inbox">Reports</string>
+    <string name="navigation_starred">School</string>
+    <string name="navigation_sent">Issues</string>
+    <string name="navigation_trash">Account</string>
     <string name="navigation_spam">Spam</string>
     <string name="navigation_drafts">Drafts</string>
 

@@ -58,24 +58,10 @@ object NavigationModel {
         ),
         NavigationModelItem.NavMenuItem(
             id = TRASH_ID,
-            icon = R.drawable.ic_twotone_delete,
+            icon = R.drawable.ic_baseline_account_circle_24,
             titleRes = R.string.navigation_trash,
             checked = false,
             mailbox = Mailbox.TRASH
-        ),
-        NavigationModelItem.NavMenuItem(
-            id = SPAM_ID,
-            icon = R.drawable.ic_twotone_error,
-            titleRes = R.string.navigation_spam,
-            checked = false,
-            mailbox = Mailbox.SPAM
-        ),
-        NavigationModelItem.NavMenuItem(
-            id = DRAFTS_ID,
-            icon = R.drawable.ic_twotone_drafts,
-            titleRes = R.string.navigation_drafts,
-            checked = false,
-            mailbox = Mailbox.DRAFTS
         )
     )
 
