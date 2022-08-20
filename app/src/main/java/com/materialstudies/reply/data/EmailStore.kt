@@ -32,13 +32,13 @@ object EmailStore {
             0L,
             AccountStore.getContactAccountById(9L),
             listOf(AccountStore.getDefaultUserAccount()),
-            "Package shipped!",
+            "Stealing",
             """
-                Cucumber Mask Facial has shipped.
+                My computer was stolen.
 
-                Keep an eye out for a package to arrive between this Thursday and next Tuesday. If for any reason you don't receive your package before the end of next week, please reach out to us for details on your shipment.
+                I left my M1 Macbook Air at H26 during Computer Science class. If you find it, please leave it at Dorm 427.
 
-                As always, thank you for shopping with us and we hope you love our specially formulated Cucumber Mask!
+                Thank you so much!
             """.trimIndent(),
             isStarred = true
         ),
@@ -46,28 +46,21 @@ object EmailStore {
             1L,
             AccountStore.getContactAccountById(6L),
             listOf(AccountStore.getDefaultUserAccount()),
-            "Brunch this weekend?",
+            "Fight on 3rd Floor",
             """
-                I'll be in your neighborhood doing errands and was hoping to catch you for a coffee this Saturday. If you don't have anything scheduled, it would be great to see you! It feels like its been forever.
+                There was a big fight at the 3rd floor dorms last night.
 
-                If we do get a chance to get together, remind me to tell you about Kim. She stopped over at the house to say hey to the kids and told me all about her trip to Mexico.
-
-                Talk to you soon,
-
-                Ali
+                There is still blood.
             """.trimIndent()
         ),
         Email(
             2L,
             AccountStore.getContactAccountById(5L),
             listOf(AccountStore.getDefaultUserAccount()),
-            "Bonjour from Paris",
-            "Here are some great shots from my trip...",
+            "Fountain Destroyed.",
+            "2nd floor dorms.",
             listOf(
-                EmailAttachment(R.drawable.paris_1, "Bridge in Paris"),
-                EmailAttachment(R.drawable.paris_2, "Bridge in Paris at night"),
-                EmailAttachment(R.drawable.paris_3, "City street in Paris"),
-                EmailAttachment(R.drawable.paris_4, "Street with bike in Paris")
+                EmailAttachment(R.drawable.toilet, "Bridge in Paris"),
             ),
             true
         ),

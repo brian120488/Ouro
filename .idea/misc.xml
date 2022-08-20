@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/brian/AndroidStudioProjects/Ouro/app/src/main/res/drawable/ic_home.xml" value="0.139" />
+        <entry key="..\:/Users/brian/AndroidStudioProjects/Ouro/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.139" />
         <entry key="..\:/Users/brian/AndroidStudioProjects/Ouro/app/src/main/res/layout/account_item_layout.xml" value="0.1" />
         <entry key="..\:/Users/brian/AndroidStudioProjects/Ouro/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/brian/AndroidStudioProjects/Ouro/app/src/main/res/layout/compose_recipient_chip.xml" value="0.286231884057971" />
