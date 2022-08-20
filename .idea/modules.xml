@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Ouro.iml" filepath="$PROJECT_DIR$/.idea/Ouro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Reply.iml" filepath="$PROJECT_DIR$/.idea/modules/Reply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reply.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reply.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reply.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reply.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reply.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reply.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Reply.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Reply.app.unitTest.iml" />
     </modules>
   </component>
 </project>
