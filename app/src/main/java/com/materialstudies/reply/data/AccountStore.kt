@@ -32,8 +32,8 @@ object AccountStore {
             0L,
             "Jeff",
             "Hansen",
-            "hikingfan@gmail.com",
-            "hkngfan@outside.com",
+            "Academic Dishonesty",
+            "Academic Dishonesty",
             R.drawable.avatar_10,
             true
         ),
@@ -42,8 +42,8 @@ object AccountStore {
             0L,
             "Jeff",
             "H",
-            "jeffersonloveshiking@gmail.com",
-            "jeffersonloveshiking@work.com",
+            "Facility Issue",
+            "Facility Issue",
             R.drawable.avatar_2
         ),
         Account(
@@ -51,8 +51,8 @@ object AccountStore {
             0L,
             "Jeff",
             "Hansen",
-            "jeffersonc@google.com",
-            "jeffersonc@gmail.com",
+            "Bullying",
+            "Bullying",
             R.drawable.avatar_9
         )
     )
@@ -70,8 +70,8 @@ object AccountStore {
         Account(
             5L,
             2L,
-            "Allison",
-            "Trabucco",
+            "Not reviewed yet.",
+            "",
             "atrabucco222@gmail.com",
             "atrabucco222@work.com",
             R.drawable.avatar_3
@@ -79,8 +79,8 @@ object AccountStore {
         Account(
             6L,
             3L,
-            "Ali",
-            "Connors",
+            "Reviewed.",
+            "",
             "aliconnors@gmail.com",
             "aliconnors@android.com",
             R.drawable.avatar_5
@@ -106,8 +106,8 @@ object AccountStore {
         Account(
             9L,
             6L,
-            "Google",
-            "Express",
+            "Current being reviewed",
+            "",
             "express@google.com",
             "express@gmail.com",
             R.drawable.avatar_express
