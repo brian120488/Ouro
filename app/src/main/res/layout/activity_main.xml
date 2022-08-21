@@ -69,12 +69,12 @@
 
                 <ImageView
                     android:id="@+id/bottom_app_bar_logo"
-                    android:layout_width="@dimen/bottom_app_bar_logo_size"
-                    android:layout_height="@dimen/bottom_app_bar_logo_size"
-                    android:layout_marginLeft="@dimen/grid_1"
-                    android:contentDescription="@string/bottom_app_bar_logo_content_desc"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
                     android:layout_gravity="center_vertical"
-                    app:srcCompat="@drawable/ic_reply_logo" />
+                    android:layout_marginLeft="1dp"
+                    android:contentDescription="@string/bottom_app_bar_logo_content_desc"
+                    app:srcCompat="@drawable/logo" />
 
                 <TextView
                     android:id="@+id/bottom_app_bar_title"

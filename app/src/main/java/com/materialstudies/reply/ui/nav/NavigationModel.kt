@@ -44,14 +44,14 @@ object NavigationModel {
         ),
         NavigationModelItem.NavMenuItem(
             id = STARRED_ID,
-            icon = R.drawable.ic_twotone_stars,
+            icon = R.drawable.ic_baseline_leaderboard_24,
             titleRes = R.string.navigation_starred,
             checked = false,
             mailbox = Mailbox.STARRED
         ),
         NavigationModelItem.NavMenuItem(
             id = SENT_ID,
-            icon = R.drawable.ic_twotone_send,
+            icon = R.drawable.ic_baseline_school_24,
             titleRes = R.string.navigation_sent,
             checked = false,
             mailbox = Mailbox.SENT

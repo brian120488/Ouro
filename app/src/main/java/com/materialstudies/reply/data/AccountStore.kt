@@ -30,7 +30,7 @@ object AccountStore {
         Account(
             1L,
             0L,
-            "Jeff",
+            "",
             "Hansen",
             "Academic Dishonesty",
             "Academic Dishonesty",
@@ -40,20 +40,20 @@ object AccountStore {
         Account(
             2L,
             0L,
-            "Jeff",
+            "",
             "H",
             "Facility Issue",
             "Facility Issue",
-            R.drawable.avatar_2
+            R.drawable.avatar_10
         ),
         Account(
             3L,
             0L,
-            "Jeff",
+            "",
             "Hansen",
             "Bullying",
             "Bullying",
-            R.drawable.avatar_9
+            R.drawable.avatar_10
         )
     )
 
@@ -65,7 +65,7 @@ object AccountStore {
             "Alvarez",
             "tracealvie@gmail.com",
             "tracealvie@gravity.com",
-            R.drawable.avatar_1
+            R.drawable.avatar_10
         ),
         Account(
             5L,
@@ -74,7 +74,7 @@ object AccountStore {
             "",
             "atrabucco222@gmail.com",
             "atrabucco222@work.com",
-            R.drawable.avatar_3
+            R.drawable.avatar_10
         ),
         Account(
             6L,
@@ -83,70 +83,70 @@ object AccountStore {
             "",
             "aliconnors@gmail.com",
             "aliconnors@android.com",
-            R.drawable.avatar_5
+            R.drawable.avatar_10
         ),
         Account(
             7L,
             4L,
-            "Alberto",
-            "Williams",
+            "#4",
+            "",
             "albertowilliams124@gmail.com",
             "albertowilliams124@chromeos.com",
-            R.drawable.avatar_0
+            R.drawable.avatar_10
         ),
         Account(
             8L,
             5L,
-            "Kim",
-            "Alen",
+            "Reviewed.",
+            "",
             "alen13@gmail.com",
             "alen13@mountainview.gov",
-            R.drawable.avatar_7
+            R.drawable.avatar_10
         ),
         Account(
             9L,
             6L,
-            "Current being reviewed",
+            "Currently being reviewed.",
             "",
             "express@google.com",
             "express@gmail.com",
-            R.drawable.avatar_express
+            R.drawable.avatar_10
         ),
         Account(
             10L,
             7L,
-            "Sandra",
-            "Adams",
+            "#2",
+            "",
             "sandraadams@gmail.com",
             "sandraadams@textera.com",
-            R.drawable.avatar_2
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             11L,
             8L,
-            "Trevor",
-            "Hansen",
+            "#1",
+            "",
             "trevorhandsen@gmail.com",
             "trevorhandsen@express.com",
-            R.drawable.avatar_8
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             12L,
             9L,
-            "Sean",
-            "Holt",
+            "#3",
+            "",
             "sholt@gmail.com",
             "sholt@art.com",
-            R.drawable.avatar_6
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             13L,
             10L,
-            "Frank",
-            "Hawkins",
+            "#2",
+            "",
             "fhawkank@gmail.com",
             "fhawkank@thisisme.com",
-            R.drawable.avatar_4
+            R.drawable.ic_baseline_account_circle_24
         )
     )
 

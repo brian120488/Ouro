@@ -40,8 +40,8 @@
 
     <!--BottomNavigationDrawer-->
     <string name="navigation_inbox">Reports</string>
-    <string name="navigation_starred">School</string>
-    <string name="navigation_sent">Issues</string>
+    <string name="navigation_starred">Issues</string>
+    <string name="navigation_sent">School</string>
     <string name="navigation_trash">Account</string>
     <string name="navigation_spam">Spam</string>
     <string name="navigation_drafts">Drafts</string>
