@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashPage"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="278dp"
+        android:layout_height="176dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="75dp"
+        app:srcCompat="@drawable/logoblue" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/loading"
+        android:layout_width="642dp"
+        android:layout_height="172dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/load3"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="198dp" />
+
+    <TextView
+        android:id="@+id/Sologan"
+        android:layout_width="396dp"
+        android:layout_height="176dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/alata"
+        android:gravity="center"
+        android:text="promoting peace is promoting safty"
+        android:textColor="@color/reply_blue_800"
+        android:textSize="30sp" />
+
+</LinearLayout>

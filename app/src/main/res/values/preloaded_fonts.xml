@@ -14,6 +14,7 @@
   -->
 <resources>
     <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
         <item>@font/work_sans</item>
         <item>@font/work_sans_bold</item>
         <item>@font/work_sans_extrabold</item>

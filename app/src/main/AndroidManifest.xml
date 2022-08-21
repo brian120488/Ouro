@@ -11,11 +11,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Reply.DayNight"
         tools:ignore="AllowBackup">
-        <activity android:name=".ui.MainActivity">
+        <activity android:name=".SplashPage">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".ui.MainActivity">
+
         </activity>
         <meta-data
             android:name="preloaded_fonts"

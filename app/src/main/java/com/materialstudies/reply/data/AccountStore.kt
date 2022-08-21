@@ -34,7 +34,7 @@ object AccountStore {
             "Hansen",
             "Academic Dishonesty",
             "Academic Dishonesty",
-            R.drawable.avatar_10,
+            R.drawable.ic_baseline_account_circle_24,
             true
         ),
         Account(
@@ -44,7 +44,7 @@ object AccountStore {
             "H",
             "Facility Issue",
             "Facility Issue",
-            R.drawable.avatar_10
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             3L,
@@ -53,7 +53,7 @@ object AccountStore {
             "Hansen",
             "Bullying",
             "Bullying",
-            R.drawable.avatar_10
+            R.drawable.ic_baseline_account_circle_24
         )
     )
 
@@ -65,7 +65,7 @@ object AccountStore {
             "Alvarez",
             "tracealvie@gmail.com",
             "tracealvie@gravity.com",
-            R.drawable.avatar_10
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             5L,
@@ -74,7 +74,7 @@ object AccountStore {
             "",
             "atrabucco222@gmail.com",
             "atrabucco222@work.com",
-            R.drawable.avatar_10
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             6L,
@@ -83,7 +83,7 @@ object AccountStore {
             "",
             "aliconnors@gmail.com",
             "aliconnors@android.com",
-            R.drawable.avatar_10
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             7L,
@@ -92,7 +92,7 @@ object AccountStore {
             "",
             "albertowilliams124@gmail.com",
             "albertowilliams124@chromeos.com",
-            R.drawable.avatar_10
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             8L,
@@ -101,7 +101,7 @@ object AccountStore {
             "",
             "alen13@gmail.com",
             "alen13@mountainview.gov",
-            R.drawable.avatar_10
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             9L,
@@ -110,7 +110,7 @@ object AccountStore {
             "",
             "express@google.com",
             "express@gmail.com",
-            R.drawable.avatar_10
+            R.drawable.ic_baseline_account_circle_24
         ),
         Account(
             10L,
