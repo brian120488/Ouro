@@ -135,6 +135,9 @@ object EmailStore {
                     """
               150 Tufts students forced to live in complete isolation in trailers with roach infestation.
           """.trimIndent(),
+                    listOf(
+                            EmailAttachment(R.drawable.tufts, "Tufts dorms"),
+                    ),
                     mailbox = Mailbox.TRASH,
                     isStarred = true
             )

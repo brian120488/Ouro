@@ -36,7 +36,7 @@
         android:layout_marginTop="80dp"
         android:fontFamily="@font/alata"
         android:gravity="center"
-        android:text="promoting peace is promoting safty"
+        android:text="speedy, secure, safe"
         android:textColor="@color/reply_blue_800"
         android:textSize="30sp" />
 
